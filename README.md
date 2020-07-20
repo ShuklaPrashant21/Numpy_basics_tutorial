@@ -21,3 +21,7 @@ Advantages of Numpy
 2) Numpy is faster than operations carried out on python lists. 
 
 3) Numpy use less memory in runtime than python list.
+
+Learn numpy for numerical computational & statistics.
+
+For more information please visit numpy.org
