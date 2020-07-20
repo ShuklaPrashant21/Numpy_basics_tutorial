@@ -24,4 +24,4 @@ Advantages of Numpy
 
 Learn numpy for numerical computational & statistics.
 
-For more information please visit numpy.org
+For more information please visit https://numpy.org/
